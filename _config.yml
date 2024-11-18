@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ezequiel (Zeke) Arneodo, Ph.D
+title: Ezequiel (Zeke) Arneodo, Ph.D.
 email: zeke.arneodo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-
-  I'm a Physicist, experimental & computational neuroscientist and an Engineer.
-  This blog is about my work 
-baseurl: "zekearneodo.github.io" # the subpath of your site, e.g. /blog
+  I'm a Physicist, experimental andcomputational neuroscientist and an Engineer.
+  This blog is about my work in academia, other work that I find interesting, and the occasional 
+  rant.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @neurosarasa
+twitter_username: neurosarasa
 github_username:  zekearneodo
 
 # Build settings
@@ -42,7 +42,8 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
+  - on_the_other_side/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/

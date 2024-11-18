@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a Physicist, experimental and computational neuroscientist and an engineer. 
+I worked on the design and construction of experiments and mathematical models to understand how we encode stimuli in the brain (chemical senses), and how populations of neurons learn to control the biomechanical machinery that produces vocal behavior.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is about my work in academia, other work that I find interesting, and the occasional rant.
+
+I am currently working at apple, decoding user intention from large arrays of sensors.
+I can't tell you exactly how, tho. I mean, I could tell you, but then...
 
 
-[jekyll-organization]: https://github.com/jekyll
+You can see my publications in my
+[Google Scholar Profile](https://scholar.google.com/citations?user=yrSjCGwAAAAJ&hl=en&oi=ao)
