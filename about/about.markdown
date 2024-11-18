@@ -24,6 +24,7 @@ This blog is about my work in academia, other work that I find interesting, and 
 I am currently working at apple, decoding user intention from large arrays of sensors.
 I can't tell you exactly how, tho. I mean, I could tell you, but then...
 
+![Image](me_photo.jpg)
 
 
 You can see my publications in my
